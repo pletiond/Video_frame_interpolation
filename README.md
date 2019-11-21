@@ -6,8 +6,8 @@ Survey common and state of the art algorithms for video frame interpolation. Imp
 
 ## References
 * http://www.cmlab.csie.ntu.edu.tw/~yulunliu/CyclicGen_/liu.pdf
-* https://arxiv.org/pdf/1711.06045.pdf
 * http://tedxiao.me/pdf/CS294_Report.pdf
+* http://cs231n.stanford.edu/reports/2017/pdfs/317.pdf
 
 ## 1. milestone
 [Slides](https://docs.google.com/presentation/d/1McdWXe2id4PRHFti6i5LdxD249JgCIbPOt5xTW67GdQ/edit?usp=sharing)
