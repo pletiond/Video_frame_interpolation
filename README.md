@@ -8,5 +8,11 @@ Vezměte krátké 5-10 sekundové video a vytvořte generátor pro interpolován
 * http://tedxiao.me/pdf/CS294_Report.pdf
 * http://cs231n.stanford.edu/reports/2017/pdfs/317.pdf
 
-## 1. milestone
-[Slides](https://docs.google.com/presentation/d/1McdWXe2id4PRHFti6i5LdxD249JgCIbPOt5xTW67GdQ/edit?usp=sharing)
+## Models
+* GAN
+* U-Net
+
+## Result example
+![Slides](ball_res.PNG)
+![Slides](tom_res.PNG)
+![Slides](gump_res.PNG)
